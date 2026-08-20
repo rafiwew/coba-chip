@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 Muhammad Rafi
+ * Copyright (c) 2026 Muhammad Rafi.
  * SPDX-License-Identifier: Apache-2.0
  */
 
