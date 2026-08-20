@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2026 Muhammad Rafi
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 module serdes_top(
     input           clk,
     input           rst_n,
